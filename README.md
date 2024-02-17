@@ -1,7 +1,6 @@
 ---
 # Newsify
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 Newsify is a dynamic news app built using React, Bootstrap, and API keys. It provides users with real-time news updates, offering a seamless and visually appealing experience.
