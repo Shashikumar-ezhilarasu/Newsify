@@ -20,7 +20,7 @@ Newsify is a dynamic news app built using React, Bootstrap, and API keys. It pro
 ## Installation
 
 1. Clone the repositor…
-[9:20 pm, 17/02/2024] Shashi kumar: Certainly! Below is a template for a README file for your React news app. Replace the placeholders like [Your App Name], [Brief Description], and [Installation Instructions] with your actual app details.
+ Certainly! Below is a template for a README file for your React news app. Replace the placeholders like [Your App Name], [Brief Description], and [Installation Instructions] with your actual app details.
 
 ---
 
