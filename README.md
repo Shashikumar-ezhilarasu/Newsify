@@ -14,6 +14,7 @@ Newsify is a dynamic news app built using React, Bootstrap, and API keys. It pro
 
 ## Screenshots
 <img width="1470" alt="Screenshot 2024-02-17 at 2 45 03 PM" src="https://github.com/Shashikumar-ezhilarasu/News-mag/assets/152071778/73bf598a-7fac-4f28-b2f5-13a0b05e7ecc">
+<br>
 <img width="1470" alt="Screenshot 2024-02-17 at 11 53 03 AM" src="https://github.com/Shashikumar-ezhilarasu/News-mag/assets/152071778/8a7c4707-55b7-441e-9bab-9c8199770502">
 
 
@@ -35,7 +36,7 @@ Newsify is a dynamic news app built using React, Bootstrap, and API keys. It pro
 - Category filtering and search functionality
 - Error handling for a smooth user experience
 
-## Screenshots
+
 
 
 
